@@ -8,12 +8,7 @@ import { reduxFirestore, firestoreReducer } from 'redux-firestore';
 // @todo
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDw-EwzLnNC7fwfIP2sDjToY6Ts9Uh0wCg',
-  authDomain: 'reactclientrecords.firebaseapp.com',
-  databaseURL: 'https://reactclientrecords.firebaseio.com',
-  projectId: 'reactclientrecords',
-  storageBucket: 'reactclientrecords.appspot.com',
-  messagingSenderId: '590501527108'
+ 
 };
 
 // react-redux-firebase config
